@@ -45,7 +45,7 @@ Explore our detailed process guides organized by project phase:
 
 ### Overview & Roles
 - **[Project Management Overview](octoacme-project-management-overview.md)** — High-level introduction to our approach, principles, roles, and key artifacts
-- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of responsibilities for Developers, Product Managers, and Project Managers
+- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of responsibilities for all team roles including Developers, Product Managers, Project Managers, UX Designers, DevOps Engineers, Support/Customer Success Representatives, and Security Leads
 
 ### Project Lifecycle
 - **[Project Initiation](octoacme-project-initiation.md)** — Validate and authorize work, align stakeholders, create the Project One-pager
@@ -54,6 +54,12 @@ Explore our detailed process guides organized by project phase:
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** — Identify, manage, and communicate risks and dependencies effectively
 - **[Release and Deployment](octoacme-release-and-deployment.md)** — Standardized release process to reduce risk and improve observability
 - **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Capture learnings and drive actionable improvements
+
+### Role-Specific Templates & Checklists
+- **[UX Design Review Checklist](octoacme-ux-design-checklist.md)** — Ensure user experience designs meet usability and accessibility standards
+- **[DevOps Deployment Checklist](octoacme-devops-checklist.md)** — Safe and reliable deployment procedures with monitoring and rollback plans
+- **[Customer Support Escalation Template](octoacme-support-escalation-template.md)** — Standardized process for escalating customer issues to Engineering and Product teams
+- **[Security Review Checklist](octoacme-security-review-checklist.md)** — Comprehensive security review process from design through deployment
 
 ## Using These Docs
 
