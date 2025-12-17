@@ -64,7 +64,7 @@ Explore our detailed process guides organized by project phase:
 
 ### For Active Projects
 - Keep your Project Charter updated in the project repository
-- Add process-specific docs to `.copilot/` if you want GitHub Copilot Spaces to use them as context
+- Add process-specific docs to `.copilot/` (create if needed) if you want GitHub Copilot Spaces to use them as context
 - Reference these guides during planning, execution, and retrospectives
 
 ### For Process Improvement
@@ -85,6 +85,6 @@ Your insights help make these docs more valuable for everyone at OctoAcme.
 
 ---
 
-**Related**: See [issue #2](https://github.com/SomeshwarSutar/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2) for the background on creating this documentation hub.
+**Related**: See [issue #2](../../issues/2) for the background on creating this documentation hub.
 
 **Maintained by**: OctoAcme Project Management Team
